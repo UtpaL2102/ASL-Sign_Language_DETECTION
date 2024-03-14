@@ -12,13 +12,8 @@ Training the model using the designated training set.
 Validation and fine-tuning for optimal performance.
 Saving the trained model for later use
 
-# Model Building
-Notebook: 
-Data Preprocessing: Ensuring image data is in the appropriate format for training.
-Model Architecture: Designing a deep learning architecture suitable for ASL sign recognition.
-Training and Validation: Iterative training and validation loops for optimal model performance.
-Fine-tuning: Adjusting hyperparameters to achieve high accuracy.
-2. Live Detection
+
+In the Notebook: Sign=Language-detection.ipynb Live Detection is done:
 Real-time Processing: Efficient video processing techniques for live camera input.
 Model Inference: Utilizing the pre-trained model to classify signs in each frame.
 Display Output: Showing the detected sign with associated information on the live feed.
